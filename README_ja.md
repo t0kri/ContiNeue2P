@@ -32,7 +32,7 @@ Copyright (c) 2025, t0kri
 This Font Software is based on "Press Start 2P".
 Copyright (c) 2012, CodeMan38.
 
-This Font Software is based on "Misaki Gothic Dai 2".
+This Font Software is based on "Misaki Gothic 2nd".
 Copyright (c) 2002-2021, horiharah.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
