@@ -21,7 +21,7 @@
 
 フォントを再配布する際は、このREADMEファイルとライセンスファイル（OFL.txt）を必ず同梱してください。
 
-- **ライセンスの全文**: 同梱の `OFL.txt` をご覧ください。
+- **ライセンスの全文**: 同梱の `OFL.txt` もしくは[日本語サイト](https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html)をご覧ください。
 - **ライセンスのFAQ（よくある質問と回答）**: [https://openfontlicense.org](https://openfontlicense.org)
 
 ## 著作権について
