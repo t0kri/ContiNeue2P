@@ -1,5 +1,7 @@
 # Conti Neue 2P Readme
 
+<img src="/img/thumb.jpg">
+
 ## 概要
 
 「Conti Neue 2P」は、「Press Start 2P」と「美咲ゴシック第2」を基に、オリジナルのひらがな・カタカナを追加した改変フォントです。
