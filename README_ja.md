@@ -47,4 +47,4 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 ## 更新履歴
 
-- `2025.08.31` Version 1.0.0 - 初版公開
+- `2025.08.31` Version 1.0.1 - 初版公開
