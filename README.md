@@ -1,4 +1,4 @@
-# ContiNeue2P Readme
+# Conti Neue 2P Readme
 
 Thank you for downloading "Conti Neue 2P".
 
