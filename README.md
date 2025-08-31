@@ -21,7 +21,7 @@ This font is licensed under the **SIL Open Font License, Version 1.1**.
 
 Under this license, you are free to use, modify, and redistribute the font for personal or commercial purposes, with the exception of selling the font file itself.
 
-If you redistribute the font, you must include this README file and the license file (OFL.txt).
+If you redistribute the font, you must include the license file (OFL.txt).
 
 - **Full License Text**: See the included `OFL.txt`.
 - **License FAQ**: [https://openfontlicense.org](https://openfontlicense.org)
