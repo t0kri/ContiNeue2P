@@ -1,7 +1,5 @@
 # Conti Neue 2P Readme
 
-Thank you for downloading "Conti Neue 2P".
-
 [日本語のReadMeはこちら (Japanese Readme)](./README_ja.md)
 
 ## About
