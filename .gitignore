@@ -1,1 +1,9 @@
-bin/
+UIState.plist
+*（自動保存）.glyphspackage
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
