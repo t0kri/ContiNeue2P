@@ -2,6 +2,8 @@
 
 [日本語のReadMeはこちら (Japanese Readme)](./README_ja.md)
 
+<img src="/img/thumb.jpg">
+
 ## About
 
 "Conti Neue 2P" is a modified font based on "Press Start 2P" and "Misaki Gothic 2nd," with the addition of original Hiragana and Katakana characters.
