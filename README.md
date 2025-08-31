@@ -49,4 +49,4 @@ This font was created based on the following wonderful fonts. A heartfelt thank 
 
 ## Changelog
 
-- `2025.08.31` Version 1.0.0 - Initial release
+- `2025.08.31` Version 1.0.1 - Initial release
